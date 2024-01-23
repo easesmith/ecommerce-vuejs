@@ -1,13 +1,6 @@
 # E-Commerce
 Creating a E-commerce web app using vue and vuetify
 
-## Live Demo
-
-Use a dummy e-mail and password to signup and continue
-
-<p>
-    <a href="https://voidrlm.github.io/E-Commerce-VueJS/#/" target="_blank">Online Demo</a>
-</p>
 
 ## Requirements
 
